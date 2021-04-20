@@ -1,0 +1,11 @@
+form {
+    margin: 15px auto;
+}
+ul {
+    margin: 0 auto;
+}
+
+.list-group-item {
+    display: flex;
+    background-color: aqua;
+}
